@@ -1,0 +1,4 @@
+><em>使用python检测</em>鼠标在<em>窗口</em>中的点击 Dovov编程网</a></h3><div class="c-abstract">无论鼠标在哪个<em>窗口</em>中,我如何<em>检测</em>鼠标点击? 在<em>python</em> perferabliy,但如果有人可以用任何语言解释它,我可能会弄清楚。 我在微软的网站上发现这个: http : //...</div><div class="f13  se_st_footer"><a target="_blank" href="http://www.baidu.com/link?url=xsZhq6wHQDooO4Q4OWgftEimiaGcCDlTrHV75WFYvifOIRoOINbtkJ49bEthGjBU" class="c-showurl " style="text-decoration:none;position:relative;">
+www.dovov.com
+/<b>python</b>-4...html</a><div class="c-tools " id="tools_17094702761382425112_9" data-tools='{"title":"使用python检测鼠标在窗口中的点击 Dovov编程网","url":"http://www.baidu.com/link?url=xsZhq6wHQDooO4Q4OWgftEimiaGcCDlTrHV75WFYvifOIRoOINbtkJ49bEthGjBU"}'><a class="c-tip-icon"><i class="c-icon c-icon-triangle-down-g"></i></a></div><span class="c-icons-outer"><span class="c-icons-inner"></span></span>&nbsp;-&nbsp;<a data-click="{'rsv_snapshot':'1'}" href="http://cache.baiducontent.com/c?m
+

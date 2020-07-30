@@ -1,0 +1,5 @@
+('d:\\users\\mzy\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\six-1.15.0-py3.8.egg',
+ None,
+ {'*.pyw', '*.py', '*.pyc', '*.pyd', '*.cp38-win_amd64.pyd', 'EGG-INFO'},
+ 'DATA',
+ [])
